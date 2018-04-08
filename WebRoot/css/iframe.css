@@ -1,0 +1,14 @@
+
+.top-module-right{
+	float:right;
+	height:100%;
+	width:125px;
+	border-left:1px solid #5DB3DE;
+	text-align:center;
+	line-height:50px;
+}
+.top-span{
+	font-family:Microsoft Yahei;
+	font-size:18px;
+	color:#FFF;
+}
